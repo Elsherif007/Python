@@ -1,5 +1,5 @@
 
-
+### Day 1 ###
 
 ## Band Name Generator ##
 print ('Welcome to the Band Name generator')
